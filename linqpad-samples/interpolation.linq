@@ -1,5 +1,5 @@
 <Query Kind="Statements">
-  <NuGetReference >Honjo</NuGetReference>
+  <NuGetReference>Honjo</NuGetReference>
   <Namespace>HonjoLib</Namespace>
 </Query>
 
